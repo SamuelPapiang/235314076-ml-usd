@@ -1,0 +1,10 @@
+{
+  "dataset": "Wine asli; 178 observasi; 13 fitur numerik; tanpa label",
+  "scaler": "StandardScaler",
+  "representation": "ALL",
+  "clip_iqr": false,
+  "method": "Ward",
+  "k": 3,
+  "seed": 2026,
+  "reason": "ISI ALASAN BERDASARKAN BUKTI EDA DAN P3/P4"
+}
